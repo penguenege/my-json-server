@@ -1,0 +1,70 @@
+{
+  "data1": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "id": 4
+    }
+  ],
+  "data2": [
+    {
+      "id": 1,
+      "name": "Abc"
+    },
+    {
+      "id": 2,
+      "name": "Bcd"
+    },
+    {
+      "id": 3,
+      "name": "Cde"
+    },
+    {
+      "id": 4,
+      "name": "Efg"
+    },
+    {
+      "id": 5,
+      "name": "Fgh"
+    }
+  ],
+  "data3": [
+    {
+      "id": 1,
+      "code": "001",
+      "name": "Abc"
+    },
+    {
+      "id": 2,
+      "code": "002",
+      "name": "Bcd"
+    },
+    {
+      "id": 3,
+      "code": "003",
+      "name": "Cde"
+    },
+    {
+      "id": 4,
+      "code": "004",
+      "name": "Efg"
+    },
+    {
+      "id": 5,
+      "code": "005",
+      "name": "Fgh"
+    },
+    {
+      "id": 6,
+      "code": "006",
+      "name": "Ghi"
+    }
+  ]
+}
